@@ -2,7 +2,7 @@
 Modelo preditivo de PoC para uma aplicação usando Deep Learning e Redes Neurais Convolucionais, com objetivo de detecção de imagens.
 **DeepLearning-ImageDetection**
 
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-orange) ![Convolutional Neural Networks](https://img.shields.io/badge/Convolutional-Neural-Networks-yellow) ![Image Detection](https://img.shields.io/badge/Image-Detection-green)
+![Deep Learning]([https://img.shields.io/badge/Deep-Learning-orange](https://sigmoidal.ai/wp-content/uploads/2022/05/neural_nets.png)) ![Convolutional Neural Networks](https://img.shields.io/badge/Convolutional-Neural-Networks-yellow) ![Image Detection](https://img.shields.io/badge/Image-Detection-green)
 
 Este é um projeto de prova de conceito (PoC) para uma aplicação de detecção de imagens utilizando técnicas avançadas de Deep Learning, especificamente Redes Neurais Convolucionais (CNNs). O objetivo deste projeto é criar um modelo preditivo capaz de identificar e classificar objetos em imagens com alta precisão.
 
